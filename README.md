@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vaishnavi Pande
 
-# 💫 About Me:
+### About Me
 🔭 I’m currently working on:<br>PaperHub – A MERN stack project for managing college exam papers.<br><br>🌱 I’m currently learning:<br>Advanced React.js concepts and optimization techniques.<br>Improving problem-solving skills through Leetcode & GFG<br><br>💬 Ask me about:<br>MERN Stack Development (React.js, Node.js, Express, MongoDB).<br>DSA & Problem-Solving (Leetcode, GFG).<br><br>📫 How to reach me:<br>Email: vaishnavipande27@gmail.com<br>LinkedIn:https://www.linkedin.com/in/vaishnavi-pande-3b51aa25b/<br>GitHub: You're already here! 😉<br><br>⚡ Things I enjoy:<br>Playing video games 🎮<br>Traveling & exploring new places 🌍<br>Watching movies 🍿<br>
 
 
